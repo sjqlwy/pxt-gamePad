@@ -4,8 +4,7 @@
     "description": "This library is DFRobot gamer:bit provides the game handle control function.",
     "license": "GNU",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
