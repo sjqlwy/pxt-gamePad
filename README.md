@@ -1,6 +1,6 @@
 # gamePad
 
-Micro:bit game handle expansion board.
+Micro:bit game handle expansion board. 修改pxt.json使gamePad和bluetooth可以共存
 ![image](http://wiki.dfrobot.com.cn/images/9/98/DFR0536%E5%A4%96%E5%BD%A2%E5%9B%BE.png)
 ---------------------------------------------------------
 
